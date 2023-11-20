@@ -22,7 +22,6 @@ https://minegishirei.hatenablog.com/entry/2023/09/04/115946
 
 ## インストール
 
-
 ```sh
 git clone https://github.com/minegishirei/Haskell.git
 ```
@@ -40,13 +39,7 @@ docker-compose run haskell bash
 ```
 
 
-
-
-
-
 ## 実行
-
-
 
 ```sh
 ghc helloworld.hs
