@@ -8,6 +8,10 @@ git clone https://github.com/minegishirei/Haskell.git
 ```
 
 ```sh
+cd Haskell
+```
+
+```sh
 docker-compose build
 ```
 
