@@ -1,4 +1,4 @@
 import System.Random
 
 main = do
-    randomRIO (0, 100 :: Int) >>= show
+    randomRIO (0, 100 :: Int) >>= print . show
