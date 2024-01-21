@@ -1,0 +1,7 @@
+
+
+
+myDiv :: Double -> Double -> Double
+MyDiv x y = x / y
+
+
